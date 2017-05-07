@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<performance>
+    <performanceArtist>
+        <artistName>Kendrick Lamar</artistName>
+        <artistIdentifier source="LCNAF">http://id.loc.gov/authorities/names/no2012001286</artistIdentifier>
+        <artistRole>rapper</artistRole>
+    </performanceArtist>
+    <performanceVenue>
+        <venueIdentifier>http://empirepoloevents.com/</venueIdentifier>
+        <venueName>Empire Polo Club</venueName>
+        <venueCountry source="TGN" termID="7012149">United States</venueCountry>
+        <venueState source="TGN" termID="7007157">California</venueState>
+        <venueCity source="TGN" termID="2011877">Indio</venueCity>
+        <venueType>outdoor event space</venueType>
+        <venueAttendanceCharge currency="USD">399</venueAttendanceCharge>
+    </performanceVenue>
+    <performanceDate>2017-04-16</performanceDate>
+    <performanceTime>
+        <startTime>20:35</startTime>
+    </performanceTime>
+    <performanceEvent>music festival</performanceEvent>
+    <performanceAttendance source="venue" ref="https://www.coachella.com/guidebook/passes/"
+        >99000</performanceAttendance>
+    <performanceSet>
+        <setList>
+            <setArtist>Kendrick Lamar</setArtist>
+            <setArtistRole>rapper</setArtistRole>
+            <setSong>
+                <setSongIdentifier source="MusicBrainz Identifier (MBID)"
+                    >898059a0-753c-4943-9604-d3c0e2929d81</setSongIdentifier>
+                <setSongTitle>DNA.</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongNote>performance was separated into 3 offical parts, and an encore. This
+                    song was preceded by a video package entitled "Kung Fu Kenny Part I"; Live debut; BLOOD.
+                    intro</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID"
+                    >eb42a83e-dc51-436a-9972-1520a80c5115</setSongIdentifier>
+                <setSongTitle>ELEMENT.</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongNote>Live debut; "FEEL. intro"</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="International Standard Musical Work Code (ISWC)">T-916.799.389-7</setSongIdentifier>
+                <setSongTitle>King Kunta</setSongTitle>
+                <setSongNote>"YAH." intro</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID"
+                    >d181b55b-9499-4627-ab15-97b7241e2b7d</setSongIdentifier>
+                <setSongTitle>untitled 07 | 2014 - 2016</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID"
+                    >45ba2286-0e43-4dc4-898e-063b8e12b27a</setSongIdentifier>
+                <setSongTitle>untitled 02 | 06.23.2014</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="Wikipedia"
+                    >https://en.wikipedia.org/wiki/Goosebumps_(song)</setSongIdentifier>
+                <setSongTitle>goosebumps</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongNote>featured a guest appearance from Travis Scott; original performed by
+                    Travis Scott</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-909.129.177-9</setSongIdentifier>
+                <setSongTitle>Backseat Freestyle</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongNote>"Swimming Pools (Drank)" intro</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-910.585.464-6</setSongIdentifier>
+                <setSongTitle>Bitch, Don't Kill My Vibe (Remix)</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-919.539.646-4</setSongIdentifier>
+                <setSongTitle>THat Part</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongNote>featured guest appearance from ScHoolboy Q; remix version; original by
+                    ScHoolboy Q; "FEEL." intro</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID">e6633eaa-f3f3-44b3-a18e-9ca35b12517d</setSongIdentifier>
+                <setSongTitle>LUST.</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongNote>live debut</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-909.204.041-0</setSongIdentifier>
+                <setSongTitle>Money Trees</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID">f14afe19-eea1-4115-8c81-eb41b8284965</setSongIdentifier>
+                <setSongTitle>XXX.</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongNote>preceded by "Kung Fu Kenny Part II" video package; live debut</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-912.733.635-0</setSongIdentifier>
+                <setSongTitle>m.A.A.d city</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongNote>only part 1 performed</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID">11ed671b-b2ec-4756-932c-a205e38147f0</setSongIdentifier>
+                <setSongTitle>PRIDE.</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongNote>live debut; "YAH." intro</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID">09a613f7-5f9d-414a-9c4a-5c318dfe6b9a</setSongIdentifier>
+                <setSongTitle>Mask Off</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongNote>featured guest appearance from Future; original by
+                    Future;</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-916.772.469-8</setSongIdentifier>
+                <setSongTitle>Alright</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID">1f746931-2a54-437e-9804-27aa385a4e82</setSongIdentifier>
+                <setSongTitle>GOD.</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongNote>live debut; "FEEL." intro</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID">398bf241-7d57-4993-860b-1f9ef496c97f</setSongIdentifier>
+                <setSongTitle>HUMBLE.</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongNote>preceded by "Kung Fu Kenny Part III" video package; Wesley's Theory intro</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID">7766ea21-d94e-4f7b-966d-2d2e2b1f137f</setSongIdentifier>
+                <setSongTitle>LOVE.</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongNote>encore performance; live debut</setSongNote>
+            </setSong>
+        </setList>
+    </performanceSet>
+    <performanceCapture>
+        <captureIdentifier>http://www.mrworldpremiere.tv/?p=5499#sthash.02FW0IVz.Tny74Obf.dpbs</captureIdentifier>
+        <captureType>video</captureType>
+        <captureNote>this capture is unofficial, and may not
+            persist</captureNote>
+    </performanceCapture>
+    <performanceReview>
+        <reviewIdentifier>https://consequenceofsound.net/2017/04/coachella-review-kendrick-lamar-delivers-a-damn-good-performance/</reviewIdentifier>
+        <reviewNote>reviewed by Scott T. Sterling and Philip Cosores, Consequence of
+            Sound</reviewNote>
+    </performanceReview>
+    <performanceReview>
+        <reviewIdentifier>https://www.theguardian.com/music/2017/apr/17/coachella-2017-kendrick-lamar-sunday-headliners-set-review</reviewIdentifier>
+        <reviewNote>reviewed by Lanre Bakare, The Guardian</reviewNote>
+    </performanceReview>
+    <performanceReview>
+        <reviewIdentifier>http://www.latimes.com/entertainment/music/la-et-ms-kendrick-lamar-damn-coachella-20170417-story.html</reviewIdentifier>
+        <reviewNote>reviewed by Mikael Wood, Los Angeles Times</reviewNote>
+    </performanceReview>
+    <performancePoster>
+        <posterIdentifier>https://www.instagram.com/p/BRWwQcOFpNc/</posterIdentifier>
+        <posterNote>URI may not persist</posterNote>
+    </performancePoster>
+    <performanceNote>this performance was part of the 2017 Coachella Valley Music and Arts Festival, and is a sister
+        performance to the one on weekend 2, April 23, 2016</performanceNote>
+</performance>

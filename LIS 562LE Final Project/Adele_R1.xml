@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<performance>
+    <performanceArtist>
+        <artistName>Adele</artistName>
+        <artistIdentifier source="LCNAF">https://lccn.loc.gov/no2008088179</artistIdentifier>
+        <artistRole>headliner</artistRole>
+    </performanceArtist>
+    <performanceVenue>
+        <venueIdentifier type="URI">www.unitedcenter.com</venueIdentifier>
+        <venueName>United Center</venueName>
+        <venueCountry source="TGN" termID="7012149">United States</venueCountry>
+        <venueState source="TGN" termID="7007251">Illinois</venueState>
+        <venueCity source="TGN" termID="7013596">Chicago</venueCity>
+        <venueType>indoor arena</venueType>
+        <venueAttendanceCharge currency="USD">149</venueAttendanceCharge>
+    </performanceVenue>
+    <performanceDate>2016-07-10</performanceDate>
+    <performanceTime>20:00</performanceTime>
+    <performanceEvent>concert</performanceEvent>
+    <performanceSet>
+      <setList>
+        <setArtist type="vocalist" source="LOC" termID="no2008088179">Adele</setArtist> 
+        <setSong>
+           <setSongIdentifier source="ISWC">T-917.819.808-8</setSongIdentifier>
+            <setSongTitle>Hello</setSongTitle>
+            <setSongType>original</setSongType>
+            <setSongLanguage>eng</setSongLanguage>
+            <setSongNote>opening song</setSongNote>    
+        </setSong>
+        <setSong>
+            <setSongIdentifier source="ISWC">T-905.386.132-8</setSongIdentifier> 
+            <setSongTitle>Hometown Glory</setSongTitle>
+            <setSongType>original</setSongType>
+            <setSongLanguage>eng</setSongLanguage>
+        </setSong>
+        <setSong>
+            <setSongIdentifier source="ISWC">T-905.664.343-7</setSongIdentifier>
+            <setSongTitle>One and Only</setSongTitle>
+            <setSongType>original</setSongType>
+            <setSongLanguage>eng</setSongLanguage>
+        </setSong>
+        <setSong>
+            <setSongIdentifier source="ISWC">T-905.686.159-7</setSongIdentifier>
+            <setSongTitle>Rumor Has It</setSongTitle>
+            <setSongType>original</setSongType>
+            <setSongLanguage>eng</setSongLanguage>
+        </setSong> 
+        <setSong>
+            <setSongIdentifier source="ISWC">T-918.072.387-9</setSongIdentifier>
+            <setSongTitle>Water Under the Bridge</setSongTitle>
+            <setSongType>original</setSongType>
+            <setSongLanguage>eng</setSongLanguage>
+        </setSong>
+        <setSong>
+            <setSongIdentifier source="ISWC">T-918.072.385-7</setSongIdentifier>
+            <setSongTitle>I Miss You</setSongTitle>
+            <setSongType>original</setSongType>
+            <setSongLanguage>eng</setSongLanguage>
+        </setSong>
+        <setSong>
+            <setSongIdentifier source="ISWC">T-909.264.244-9</setSongIdentifier>
+            <setSongTitle>Skyfall</setSongTitle>
+            <setSongType>original</setSongType>
+            <setSongLanguage>eng</setSongLanguage>
+        </setSong>
+        <setSong>
+            <setSongIdentifier source="ISWC">T-918.072.388-0</setSongIdentifier>
+            <setSongTitle>Million Years Ago</setSongTitle>
+            <setSongType>original</setSongType>
+            <setSongLanguage>eng</setSongLanguage>
+        </setSong>
+        <setSong>
+            <setSongIdentifier source="ISWC">T-903.827.614-1</setSongIdentifier> 
+            <setSongTitle>Don’t You Remember</setSongTitle>
+            <setSongType>original</setSongType>
+            <setSongLanguage>eng</setSongLanguage>
+        </setSong>
+        <setSong>
+            <setSongIdentifier source="ISWC">T-917.786.168-6</setSongIdentifier>
+            <setSongTitle>Send My Love (to Your New Lover)</setSongTitle>
+            <setSongType>original</setSongType>
+            <setSongLanguage>eng</setSongLanguage>
+        </setSong>
+        <setSong>
+            <setSongTitle>Make You Feel My Love</setSongTitle>
+            <setSongType>cover</setSongType>
+            <setSongLanguage>eng</setSongLanguage>
+            <setSongNote>Adele sung a cover of Bob Dylan's song "Make You Feel My Love."</setSongNote>
+        </setSong>
+        <setSong>
+            <setSongIdentifier source="ISWC">T-918.072.386-8</setSongIdentifier>
+            <setSongTitle>Sweetest Devotion</setSongTitle>
+            <setSongType>original</setSongType>
+            <setSongLanguage>eng</setSongLanguage>
+        </setSong>
+        <setSong>
+            <setSongIdentifier source="ISWC">T-901.642.111-7</setSongIdentifier>
+            <setSongTitle>Chasing Pavements</setSongTitle>
+            <setSongType>original</setSongType>
+            <setSongLanguage>eng</setSongLanguage>
+        </setSong>
+        <setSong>
+            <setSongIdentifier source="ISWC">T-903.501.490-5</setSongIdentifier>
+            <setSongTitle>Someone Like You</setSongTitle>
+            <setSongType>original</setSongType>
+            <setSongLanguage>eng</setSongLanguage>
+        </setSong>
+        <setSong>
+            <setSongIdentifier source="ISWC">T-905.686.152-0</setSongIdentifier>
+            <setSongTitle>Set Fire to the Rain</setSongTitle>
+            <setSongType>original</setSongType>
+            <setSongLanguage>eng</setSongLanguage>
+        </setSong>
+        <setSong>
+            <setSongIdentifier source="ISWC">T-917.817.396-1</setSongIdentifier>
+            <setSongTitle>All I Ask</setSongTitle>
+            <setSongType>original</setSongType>
+            <setSongLanguage>eng</setSongLanguage>
+        </setSong>
+        <setSong>
+            <setSongIdentifier source="ISWC">T-918.071.570-2</setSongIdentifier>
+            <setSongTitle>When We Were Young</setSongTitle>
+            <setSongType>original</setSongType>
+            <setSongLanguage>eng</setSongLanguage>
+        </setSong>
+        <setSong>
+            <setSongIdentifier source="ISWC">T-905.685.995-1</setSongIdentifier>
+            <setSongTitle>Rolling in the Deep</setSongTitle>
+            <setSongType>original</setSongType>
+            <setSongLanguage>eng</setSongLanguage>
+        </setSong>
+      </setList>
+    </performanceSet>
+ <performanceCapture>
+     <captureIdentifier source="URI">https://www.youtube.com/watch?v=GE7v7xo5lSs</captureIdentifier>
+     <captureType>video</captureType>
+     <captureNote>Clip of Adele’s performance of “Set Fire to the Rain”</captureNote>
+ </performanceCapture>
+ <performanceReview>
+     <reviewIdentifier source="URI">http://www.chicagotribune.com/entertainment/music/ct-adele-united-center-review-20160710-column.html</reviewIdentifier>
+     <reviewNote>Reviewed by Greg Kot, Chicago Tribune</reviewNote>
+ </performanceReview>
+ <performancePoster>
+     <posterIdentifier source="URI">http://www.unitedcenter.com/assets/1/7/adele_home.jpg</posterIdentifier> 
+ </performancePoster>
+<performanceNote>This was the first of three concerts Adele held at the United Center in Chicago, Illinois. She performed July 10, 11, and 13, 2016.</performanceNote>
+</performance>

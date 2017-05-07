@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<performance>
+    <performanceArtist>
+        <artistName>Sufjan Stevens</artistName>
+        <artistIdentifier source="LCNAF">http://id.loc.gov/authorities/names/no2012001286</artistIdentifier>
+        <artistRole>concert headliner</artistRole>
+    </performanceArtist>
+    <performanceArtist>
+        <artistName>Gallant</artistName>
+        <artistIdentifier source="LCNAF">http://id.loc.gov/authorities/names/no2016135594</artistIdentifier>
+        <artistRole>concert opener</artistRole>
+    </performanceArtist>
+    <performanceVenue>
+        <venueIdentifier>http://www.kentuckycenter.org/facility-rentals/whitney-hall</venueIdentifier>
+        <venueName>Robert S. Whitney Hall</venueName>
+        <venueCountry source="TGN" termID="7012149">United States</venueCountry>
+        <venueState source="TGN" termID="7007255">Kentucky</venueState>
+        <venueCity source="TGN" termID="7013915">Louisville</venueCity>
+        <venueType>indoor theater</venueType>
+        <venueAttendanceCharge currency="USD">30</venueAttendanceCharge>
+    </performanceVenue>
+    <performanceDate>2017-11-12</performanceDate>
+    <performanceTime>
+        <startTime>19:30</startTime>
+    </performanceTime>
+    <performanceEvent>concert</performanceEvent>
+    <performanceSet>
+        <setList>
+            <setArtist>Gallant</setArtist>
+            <setArtistRole>vocalist</setArtistRole>
+        </setList>
+        <setList>
+            <setArtist>Sufjan Stevens</setArtist>
+            <setArtistRole>lead vocals, guitar, banjo, piano, synthesizer,
+                percussion</setArtistRole>
+            <setArtist>Dawn Landes</setArtist>
+            <setArtistRole>backing vocals, guitar, banjo, piano, synthesizer,
+                percussion</setArtistRole>
+            <setSong>
+                <setSongIdentifier source="International Standard Musical Work Code (ISWC)">T-071.901.864-0</setSongIdentifier>
+                <setSongTitle>Redford (For Yia-Yia &amp; Pappou)</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID">T-916.047.086-0</setSongIdentifier>
+                <setSongTitle>Death with Dignity</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MusicBrainz ID (MBID)">
+                    2a0e1c29-5c09-49ad-b6ec-4a08788f7dc6</setSongIdentifier>
+                <setSongTitle>Should Have Known Better</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-916.047.254-8</setSongIdentifier>
+                <setSongTitle>All of Me Wants All of You</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID"
+                    >cc33636e-0b4a-4462-87e3-5cb7d12145f8</setSongIdentifier>
+                <setSongTitle>John My Beloved</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID"
+                    >7b607b7c-5f11-4c32-b820-b9443429e9e1</setSongIdentifier>
+                <setSongTitle>The Only Thing</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID"
+                    >5b10b41a-5948-4517-a32f-f83bccc21ef7</setSongIdentifier>
+                <setSongTitle>Fourth of July</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID"
+                    >f5b50eec-d799-46e5-88e7-56ba8a0e2bbd</setSongIdentifier>
+                <setSongTitle>No Shade in the Shadow of the Cross</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID"
+                    >8248ceee-1322-4695-ab07-f5cacda81193</setSongIdentifier>
+                <setSongTitle>Carrie &amp; Lowell</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID"
+                    >86df3cf1-0a91-4ba2-a26a-fd8d5996a0e2</setSongIdentifier>
+                <setSongTitle>Drawn to the Blood</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID"
+                    >9fda26a7-4534-43fb-93ea-44eda5413d93</setSongIdentifier>
+                <setSongTitle>Eugene</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID"
+                    >f6f72241-19c7-47ed-8772-97fc9d7e4827</setSongIdentifier>
+                <setSongTitle>Vesuvius</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID"
+                    >0f13f0da-7ade-42f1-9967-7db2ce543e11</setSongIdentifier>
+                <setSongTitle>Futile Devices</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID"
+                    >09870c38-cc5e-4aab-b679-373e68d5699d</setSongIdentifier>
+                <setSongTitle>Blue Bucket of Gold</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID"
+                    >eea94bda-e867-422b-a768-accde0abb075</setSongIdentifier>
+                <setSongTitle>For the Widows in Paradise, For the Fatherless in
+                    Ypsilanti</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongNote>encore performance</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID"
+                    >46ec4d26-ae79-4e0d-b176-7302d18d96a5</setSongIdentifier>
+                <setSongTitle>John Wayne Gacy, Jr.</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongNote>encore performance</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID"
+                    >9f9d0a32-5dc0-4c7c-965e-0a647fa8f45d</setSongIdentifier>
+                <setSongTitle>Casimir Pulaski Day</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongNote>encore performance</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID"
+                    >5efb8ca9-6f8a-4140-9713-13398178cb4d</setSongIdentifier>
+                <setSongTitle>Chicago</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongNote>encore performance; acoustic version</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-917.339.939-8</setSongIdentifier>
+                <setSongTitle>Hotline Bling</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongNote>encore performance; with guest appearance by Gallant; original
+                    performed by Drake</setSongNote>
+            </setSong>
+        </setList>
+    </performanceSet>
+    <performanceReview>
+        <reviewIdentifier>https://livemusiclou.com/2015/11/30/so-much-more-than-that-hotline-bling/</reviewIdentifier>
+        <reviewNote>reviewed by Live Music Louisville</reviewNote>
+    </performanceReview>
+    <performancePoster>
+        <posterIdentifier>https://cdn.shopify.com/s/files/1/0185/9528/products/IMG_1917.jpg?v=1449331659</posterIdentifier>
+        <posterNote>this is the poster for the tour, not the individual
+            show</posterNote>
+    </performancePoster>
+    <performanceNote>this performance was part of the Carrie &amp; Lowell tour</performanceNote>
+</performance>

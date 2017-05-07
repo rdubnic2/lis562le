@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<performance>
+    <performanceArtist>
+        <artistName>Foy Vance</artistName>
+        <artistIdentifier source="LCNAF">https://lccn.loc.gov/no2006109517</artistIdentifier>       
+        <artistRole>opener</artistRole>
+    </performanceArtist> 
+    <performanceArtist>
+        <artistName>Sarah McLachlan</artistName>
+        <artistIdentifier source="LCNAF">https://lccn.loc.gov/n92014379</artistIdentifier>
+        <artistRole>featured act</artistRole>
+    </performanceArtist>  
+    <performanceArtist>
+        <artistName>Josh Groban</artistName>
+        <artistIdentifier source="LCNAF">https://lccn.loc.gov/no2002017784</artistIdentifier>
+        <artistRole>headliner</artistRole>
+    </performanceArtist>
+    <performanceVenue>
+        <venueIdentifier>https://www.kcstarlight.com</venueIdentifier>
+        <venueName>Starlight Theatre</venueName>
+        <venueCountry source="TGN" termID="7012149">United States</venueCountry>
+        <venueState source="TGN" termID="7007523">Missouri</venueState>
+        <venueCity source="TGN" termID="7013820">Kansas City</venueCity>
+        <venueType>theater</venueType>
+        <venueAttendanceCharge currency="USD">102</venueAttendanceCharge>
+        <venueNote>outdoor theater</venueNote>
+    </performanceVenue>
+    <performanceDate>2017-08-16</performanceDate>
+    <performanceTime>
+          <startTime>19:25</startTime>
+          <endTime>22:45</endTime>  
+    </performanceTime>
+    <performanceEvent>concert</performanceEvent>
+    <performanceAttendance source="review" ref="http://www.kansascity.com/entertainment/ent-columns-blogs/back-to-rockville/article96110562.html">7500</performanceAttendance>
+    <performanceSet>
+        <setList>
+            <setArtist type="vocalist">Foy Vance</setArtist>
+            <setArtistRole>vocals, guitar</setArtistRole>
+        </setList>
+        <setList>
+            <setArtist type="vocalist">Sarah McLachlan</setArtist>
+            <setArtistRole>vocals, piano, guitar</setArtistRole>     
+            <setSong>
+                <setSongIdentifier source="ISWC">T-071.514.907-7</setSongIdentifier>
+                <setSongTitle>Possession</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.086.428-3</setSongIdentifier>
+                <setSongTitle>I Will Remember You</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.249.641-0</setSongIdentifier>
+                <setSongTitle>Building a Mystery</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.249.642-1</setSongIdentifier>
+                <setSongTitle>Adia</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-915.209.514-2</setSongIdentifier>
+                <setSongTitle>Beautiful Girl</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-071.820.067-9</setSongIdentifier>
+                <setSongTitle>World on Fire</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.249.640-9</setSongIdentifier>
+                <setSongTitle>Sweet Surrender</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+             </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-903.654.748-5</setSongIdentifier>
+                <setSongTitle>Loving You Is Easy</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-915.262.818-7</setSongIdentifier>
+                <setSongTitle>Song for My Father</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-919.674.741-8</setSongIdentifier>
+                <setSongTitle>The Long Goodbye</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-071.521.786-9</setSongIdentifier>
+                <setSongTitle>Ice Cream</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-915.225.640-1</setSongIdentifier>
+                <setSongTitle>The Sound That Love Makes</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>                       
+        </setList>
+        <setList>
+            <setArtist type="vocalist">Josh Groban</setArtist>
+            <setArtistRole>vocals, piano</setArtistRole>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.939.936-9</setSongIdentifier>
+                <setSongTitle>Pure Imagination</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-903.592.363-8</setSongIdentifier>
+                <setSongTitle>Try to Remember</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.203.054-3</setSongIdentifier>
+                <setSongTitle>What I Did for Love</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.178.687-9</setSongIdentifier>
+                <setSongTitle>Old Devil Moon</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-005.463.518-5</setSongIdentifier>
+                <setSongTitle>Alla luce del sole</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>ita</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.880.931-7</setSongIdentifier>
+                <setSongTitle>Bridge Over Troubled Water</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+                <setSongNote>duet with Foy Vance</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-042.191.246-0</setSongIdentifier>
+                <setSongTitle>Aléjate</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>esp</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-010.160.716-2</setSongIdentifier>
+                <setSongTitle>Run</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+                <setSongNote>duet with Sarah McLachlan</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.942.427-0</setSongIdentifier>
+                <setSongTitle>Angel</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+                <setSongNote>duet with Sarah McLachlan</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-005.509.021-5</setSongIdentifier>
+                <setSongTitle>Canto alla vita</setSongTitle>
+                <setSongType>original</setSongType>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-900.184.485-5</setSongIdentifier>
+                <setSongTitle>February Song</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-919.161.134-4</setSongIdentifier>
+                <setSongTitle>Dust and Ashes</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+                <setSongNote>from upcoming Broadway musical The Great Comet</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID">https://musicbrainz.org/recording/c9e177e4-cfaa-4563-bacb-347dea4519de</setSongIdentifier>
+                <setSongTitle>Children Will Listen / Not While I'm Around (From "Into the Woods" / "Sweeney Todd")</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+                <setSongNote>medley</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-071.514.955-5</setSongIdentifier>
+                <setSongTitle>Le temps des cathedrales</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongLanguage>fra</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-900.231.112-8</setSongIdentifier>
+                <setSongTitle>Bring Him Home</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-910.783.023-9</setSongIdentifier>
+                <setSongTitle>You Raise Me Up</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+                <setSongNote>backing vocals provided by choir</setSongNote>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.159.949-6</setSongIdentifier>
+                <setSongTitle>Over the Rainbow</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+                <setSongNote>encore</setSongNote>
+            </setSong>
+        </setList>
+    </performanceSet>
+    <performanceCapture>
+        <captureIdentifier>https://www.youtube.com/watch?v=GSuc5CIiLY8</captureIdentifier>
+        <captureType>video</captureType>
+    </performanceCapture>
+    <performanceReview>
+        <reviewIdentifier>http://www.kansascity.com/entertainment/ent-columns-blogs/back-to-rockville/article96110562.html</reviewIdentifier>
+        <reviewNote>reviewed by Bill Brownlee, Kansas City Star</reviewNote>
+    </performanceReview>
+    <performancePoster>
+        <posterIdentifier>https://d2nwmjdyt90ckz.cloudfront.net/images/meta/concert/2016/josh-groban-fb-1200x600.jpg</posterIdentifier>
+        <posterArtist>unknown</posterArtist>
+        <posterNote>Starlight Theater poster</posterNote>
+        <posterExtension>
+            <dc:date>2016</dc:date>
+            <dc:publisher>Starlight Theater</dc:publisher>
+            <dc:language>eng</dc:language>
+            <dc:description>poster of Josh Groban's Stages Tour with special guest Sarah McLachlan</dc:description>
+            <dc:format>image/jpeg</dc:format>                           
+            <dc:format>78481 bytes</dc:format>           
+        </posterExtension>
+    </performancePoster>
+</performance>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<performance>
+    <performanceArtist>
+        <artistName>Simon and Garfunkel</artistName>
+        <artistIdentifier source="LOC">http://id.loc.gov/authorities/names/nr89010407</artistIdentifier>       
+        <artistRole>headliner</artistRole>
+    </performanceArtist> 
+    <performanceVenue>
+        <venueIdentifier source="URI">https://en.wikipedia.org/wiki/Sapporo_Dome</venueIdentifier>
+        <venueName>Sapporo Dome</venueName>
+        <venueCountry source="TGN" termID="1000120">Japan</venueCountry>
+        <venueState source="TGN" termID="1000985">Hokkaidō</venueState>
+        <venueCity source="TGN" termID="7004805">Sapporo</venueCity>
+        <venueType>stadium</venueType>
+        <venueAttendanceCharge currency="JPY">9000</venueAttendanceCharge>
+        <venueAttendanceCharge currency="JPY">13000</venueAttendanceCharge>
+    </performanceVenue>
+    <performanceDate>2009-07-18</performanceDate>
+    <performanceStartTime>17:00</performanceStartTime>
+    <performanceEvent>concert</performanceEvent>
+    <performanceSet>
+        <setList>
+            <setArtist type="vocalist" source="LOC" termID="http://id.loc.gov/authorities/names/nr89010407">Simon and Garfunkel</setArtist>
+            <setArtistRole>vocals</setArtistRole>     
+            <setSong>
+                <setSongIdentifier source="MBID">https://musicbrainz.org/recording/06f12605-03cd-410f-8023-896490534f0e</setSongIdentifier>
+                <setSongTitle>Old Friends/Bookends Theme</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.234.449-7</setSongIdentifier>
+                <setSongTitle>A Hazy Shade of Winter</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.240.448-5</setSongIdentifier>
+                <setSongTitle>I Am A Rock</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.880.613-6</setSongIdentifier>
+                <setSongTitle>America</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.241.457-0</setSongIdentifier>
+                <setSongTitle>Kathy's Song</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="MBID">https://musicbrainz.org/recording/9892ba84-d2af-4382-90c1-b24fc1950548</setSongIdentifier>
+                <setSongTitle>Hey, Schoolgirl</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.880.754-8</setSongIdentifier>
+                <setSongTitle>Be-Bop-A-Lula</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+             </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.940.142-2</setSongIdentifier>
+                <setSongTitle>Scarborough Fair/Canticle</setSongTitle>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.240.352-8</setSongIdentifier>
+                <setSongTitle>Homeward Bound</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-071.001.053-9</setSongIdentifier>
+                <setSongTitle>Mrs. Robinson</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.153.023-5</setSongIdentifier>
+                <setSongTitle>Not Fade Away</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.243.670-1</setSongIdentifier>
+                <setSongTitle>Slip Slidin' Away</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>   
+            <setSong>
+                <setSongIdentifier source="ISWC">T-901.133.047-5</setSongIdentifier>
+                <setSongTitle>El Condor Pasa (If I Could)</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+        </setList>
+        <setList>
+            <setArtist type="vocalist" source="LOC" termID="http://id.loc.gov/authorities/names/n88163308">Art Garfunkel</setArtist>
+            <setArtistRole>vocals</setArtistRole>   
+            <setSong>
+                <setSongIdentifier source="ISWC">T-800.174.565-0</setSongIdentifier>
+                <setSongTitle>Bright Eyes</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>    
+            <setSong>
+                <setSongIdentifier source="ISWC">T-010.476.513-0</setSongIdentifier>
+                <setSongTitle>A Heart in New York</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>    
+            <setSong>
+                <setSongIdentifier source="ISWC">T-071.598.897-8</setSongIdentifier>
+                <setSongTitle>Perfect Moment</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>    
+            <setSong>
+                <setSongIdentifier source="MBID">https://musicbrainz.org/recording/98557285-8995-4449-964e-e9688f8b57cd</setSongIdentifier>
+                <setSongTitle>The Lord's Prayer/Now I Lay Me Down to Sleep</setSongTitle>
+                <setSongType>cover</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+        </setList>
+        <SetList>
+            <setArtist type="vocalist" source="LOC" termID="http://id.loc.gov/authorities/names/n50023671">Paul Simon</setArtist>
+            <setArtistRole>vocals</setArtistRole>
+            <setSong>
+                <setSongIdentifier source="MBID">https://musicbrainz.org/work/d6f7935a-a783-49ae-afe5-a3f79df143a9</setSongIdentifier>
+                <setSongTitle>The Boy in the Bubble</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.940.535-5</setSongIdentifier>
+                <setSongTitle>That Was Your Mother</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>
+            <setSong>
+                <setSongIdentifier source="ISWC">T-913.695.554-9</setSongIdentifier>
+                <setSongTitle>Diamonds on the Soles of Her Shoes</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>      
+        </SetList>
+        <setList>
+            <setArtist type="vocalist" source="LOC" termID="http://id.loc.gov/authorities/names/nr89010407">Simon and Garfunkel</setArtist>
+            <setArtistRole>vocals</setArtistRole>    
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.242.762-0</setSongIdentifier>
+                <setSongTitle>The Only Living Boy in New York</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>      
+            <setSong>
+                <setSongIdentifier source="ISWC">T-071.001.081-3</setSongIdentifier>
+                <setSongTitle>My Little Town</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>      
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.880.931-7</setSongIdentifier>
+                <setSongTitle>Bridge Over Troubled Water</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+            </setSong>     
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.940.329-1</setSongIdentifier>
+                <setSongTitle>The Sound of Silence</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+                <setSongNote>encore</setSongNote>
+            </setSong> 
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.880.909-9</setSongIdentifier>
+                <setSongTitle>The Boxer</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+                <setSongNote>encore</setSongNote>
+            </setSong>        
+            <setSong>
+                <setSongIdentifier source="ISWC">T-071.000.689-5</setSongIdentifier>
+                <setSongTitle>Leaves That Are Green</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+                <setSongNote>encore</setSongNote>
+            </setSong>    
+            <setSong>
+                <setSongIdentifier source="ISWC">T-070.881.034-7</setSongIdentifier>
+                <setSongTitle>Cecilia</setSongTitle>
+                <setSongType>original</setSongType>
+                <setSongLanguage>eng</setSongLanguage>
+                <setSongNote>encore</setSongNote>
+            </setSong>    
+        </setList>
+    </performanceSet>
+    <performanceCapture>
+        <performanceCaptureIdentifier source="URI">https://www.youtube.com/watch?v=5cBA9ENfNR8</performanceCaptureIdentifier>
+        <performanceCaptureType>audio</performanceCaptureType>
+    </performanceCapture>
+    <performanceReview>
+        <reviewIdentifier source="URI">http://www.japantimes.co.jp/culture/2009/04/10/music/concert-previews/simon-garfunkel/#.WP3_64jys2w</reviewIdentifier>
+        <reviewNote>concert preview article</reviewNote>
+    </performanceReview>
+    <performancePoster>
+        <posterIdentifier source="URI">https://japantoday-asset.scdn3.secure.raxcdn.com/img/store/fd/40/19c3478336c9fbaad490a3c00bd7eb1bcf2b/simon/_w1700.jpg</posterIdentifier>
+        <posterArtist>unknown</posterArtist>
+        <posterNote>photo used in promotional announcement</posterNote>
+    </performancePoster>
+    <performanceNote>Old Friends Tour</performanceNote>
+</performance>
