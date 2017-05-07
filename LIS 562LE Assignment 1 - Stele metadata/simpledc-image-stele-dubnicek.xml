@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpledc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xsi:noNamespaceSchemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/simpledc.xsd">
+    <dc:creator>Unknown</dc:creator>
+    <dc:title>Tombs with song</dc:title>
+    <dc:date>Unknown</dc:date>
+    <dc:description>Image of Seikilos epitaph</dc:description>
+    <dc:format>image/jpeg 4 MB</dc:format>
+    <dc:language>grc</dc:language>
+    <dc:publisher>The National Museum of Denmark</dc:publisher>
+    <dc:identifier>http://samlinger.natmus.dk/AS/asset/7971/thumbnail/1280</dc:identifier>
+    <dc:rights>All rights reserved</dc:rights>
+    <dc:subject>Grave marker</dc:subject>
+    <dc:subject>Epitaph</dc:subject>
+    <dc:subject>Musical composition</dc:subject>
+</simpledc>

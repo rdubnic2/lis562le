@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpledc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xsi:noNamespaceSchemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/simpledc.xsd">
+    <dc:title>Developing and Maintaining Practical Archives, 2nd Edition</dc:title>
+    <dc:creator>Gregory S. Hunter</dc:creator>
+    <dc:date>2003</dc:date>
+    <dc:publisher>Neal-Schuman Publishers</dc:publisher>
+    <dc:description>&quot;Library Journal and other review journals raved about the first edition 
+        of this now-standard guide. This new edition has been completely updated and expanded 
+        to include crucial new information on digital records, encoded arcival description (EAD), 
+        copyright issues, post-9/11 security concerns, international perspectives on use 
+        issues--content that makes this manual essential for archivists of all backgrounds. 
+        Setting up archives, appraisal and accessioning, acquisition strategies and policies, 
+        arrangement description, reference and access, preservation, and electronic records are 
+        just some of the topics covered in both theory and practice in this clear, comprehensive, 
+        and practial guide.&quot; -From Amazon.com</dc:description>
+    <dc:subject>Archives-Handbooks, manuals, etc.</dc:subject><!-- LCSH -->
+    <dc:identifier>1-55570-467-0</dc:identifier><!-- ISBN-10 -->
+    <dc:identifier>978-1555704674</dc:identifier><!-- ISBN-13 -->
+    <dc:type>text</dc:type>
+    <dc:language>eng</dc:language>
+    <dc:format>unmediated</dc:format><!-- Media Format -->
+    <dc:format>volume</dc:format><!-- Carrier Type -->
+    <dc:format>28 cm.</dc:format><!-- Dimensions -->
+    <dc:format>457 p.</dc:format><!-- Extent -->
+    <dc:rights>Copyright (c) 2003 by Gregory S. Hunter</dc:rights>
+    <dc:relation>978-1555702120</dc:relation><!-- ISBN for 1st Edition -->
+    <dc:relation>978-0838912775</dc:relation><!-- ISBN for 3rd Edition -->
+</simpledc>

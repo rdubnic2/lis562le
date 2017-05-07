@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdwalite:cdwalite xmlns:cdwalite="http://www.getty.edu/CDWA/CDWALite"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.getty.edu/CDWA/CDWALite http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd">
+    <cdwalite:descriptiveMetadata>
+        <cdwalite:objectWorkTypeWrap>
+            <cdwalite:objectWorkType cdwalite:termsource="AAT" cdwalite:termsourceID="300007023">stelae</cdwalite:objectWorkType>
+        </cdwalite:objectWorkTypeWrap>
+        <cdwalite:titleWrap>
+            <cdwalite:titleSet>
+                <cdwalite:title cdwalite:pref="preferred" cdwalite:type="descriptive">Seikilos Epitaph</cdwalite:title>
+            </cdwalite:titleSet>
+        </cdwalite:titleWrap>
+        <cdwalite:displayCreator>unknown Greek (ca. 1st century CE)</cdwalite:displayCreator>
+        <cdwalite:indexingCreatorWrap>
+            <cdwalite:indexingCreatorSet>
+                <cdwalite:nameCreatorSet>
+                    <cdwalite:nameCreator>unknown Greek</cdwalite:nameCreator>
+                </cdwalite:nameCreatorSet>
+                <cdwalite:nationalityCreator>Ancient Greek</cdwalite:nationalityCreator>
+                <cdwalite:roleCreator cdwalite:termsource="AAT" cdwalite:termsourceID="300121785">Inscriber</cdwalite:roleCreator>
+            </cdwalite:indexingCreatorSet>
+            <cdwalite:indexingCreatorSet>
+                 <cdwalite:nameCreatorSet>
+                    <cdwalite:nameCreator cdwalite:type="personalName">Seikilos</cdwalite:nameCreator>
+                 </cdwalite:nameCreatorSet>
+                 <cdwalite:nationalityCreator>Ancient Greek</cdwalite:nationalityCreator>
+                 <cdwalite:genderCreator>Male</cdwalite:genderCreator>
+                 <cdwalite:roleCreator cdwalite:termsource="AAT" cdwalite:termsourceID="300400903">Commissioner</cdwalite:roleCreator>
+            </cdwalite:indexingCreatorSet>
+        </cdwalite:indexingCreatorWrap>
+        <cdwalite:displayMeasurements>61 x 25.5 x 20.5 cm (24 x 10 1/10 x 10 inches)</cdwalite:displayMeasurements>
+        <cdwalite:indexingMeasurementsWrap>
+            <cdwalite:indexingMeasurementsSet>
+                <cdwalite:measurementsSet cdwalite:value="61" cdwalite:unit="cm" cdwalite:type="height"/>
+                <cdwalite:measurementsSet cdwalite:value="25.5" cdwalite:unit="cm" cdwalite:type="width"/>
+                <cdwalite:measurementsSet cdwalite:value="20.5" cdwalite:unit="cm" cdwalite:type="depth"/>
+                <cdwalite:shapeMeasurements>Irregular</cdwalite:shapeMeasurements>
+            </cdwalite:indexingMeasurementsSet>
+        </cdwalite:indexingMeasurementsWrap>
+        <cdwalite:displayMaterialsTech>Gray marble</cdwalite:displayMaterialsTech>
+        <cdwalite:indexingMaterialsTechWrap>
+            <cdwalite:indexingMaterialsTechSet>
+                <cdwalite:termMaterialsTech cdwalite:termsource="AAT">Gray marble</cdwalite:termMaterialsTech>
+            </cdwalite:indexingMaterialsTechSet>
+        </cdwalite:indexingMaterialsTechWrap>
+        <cdwalite:cultureWrap>
+            <cdwalite:culture cdwalite:termsource="AAT" cdwalite:termsourceID="300020072">Ancient Greek</cdwalite:culture>
+        </cdwalite:cultureWrap>
+        <cdwalite:displayCreationDate>ca. 1st century CE</cdwalite:displayCreationDate>
+        <cdwalite:indexingDatesWrap>
+            <cdwalite:indexingDatesSet>
+                <cdwalite:earliestDate>-0200</cdwalite:earliestDate>
+                <cdwalite:latestDate>0100</cdwalite:latestDate>
+            </cdwalite:indexingDatesSet>
+        </cdwalite:indexingDatesWrap>
+        <cdwalite:locationWrap>
+            <cdwalite:locationSet>
+                <cdwalite:locationName cdwalite:type="currentRepository" cdwalite:termsource="AAAF" cdwalite:termsourceID="n 79046294 ">Nationalmuseet (Denmark)</cdwalite:locationName>
+                <cdwalite:workID cdwalite:type="inventoryNumber">14897</cdwalite:workID>
+            </cdwalite:locationSet>
+        </cdwalite:locationWrap>
+        <cdwalite:indexingSubjectWrap>
+            <cdwalite:indexingSubjectSet>
+                <cdwalite:subjectTerm cdwalite:type="conceptTerm" cdwalite:termsource="AAT" cdwalite:termsourceID="300028729">Epitaph</cdwalite:subjectTerm>
+                <cdwalite:subjectTerm cdwalite:type="conceptTerm">Musical composition</cdwalite:subjectTerm>
+            </cdwalite:indexingSubjectSet>
+        </cdwalite:indexingSubjectWrap>
+        <cdwalite:descriptiveNoteWrap>
+            <cdwalite:descriptiveNoteSet>
+                <cdwalite:descriptiveNote>Stele from Asia Minor, early Roman imperial times. Diam. Top 20.5 cm, diam. below 25.5 cm, height 61 cm. Of desire, 
+                    gray marble. Epitaph in Greek for a man named Seikilos. Tomb monument is from the 1st century AD. Of inscription, the last part is in the 
+                    form of an anthem, and between the lines there is evidence node. Translated by Carsten Hoeg: Do not hide your light as long as you live, 
+                    be sure never fully, life runs only a short while, eventually set a fixed date.</cdwalite:descriptiveNote>
+                <cdwalite:sourceDescriptiveNote>http://samlinger.natmus.dk/AS/asset/7971/</cdwalite:sourceDescriptiveNote>
+            </cdwalite:descriptiveNoteSet>
+        </cdwalite:descriptiveNoteWrap>
+        <cdwalite:inscriptionsWrap>
+            <cdwalite:inscriptions>Εἰκὼν ἡ λίθος εἰμί. Τίθησί με Σείκιλος ἔνθα μνήμης ἀθανάτου σῆμα πολυχρόνιον.
+                Ὅσον ζῇς φαίνου
+                μηδὲν ὅλως σὺ λυποῦ
+                πρὸς ὀλίγον ἐστὶ τὸ ζῆν
+                τὸ τέλος ὁ χρόνος ἀπαιτεῖ.
+                English translation:
+                I am a tombstone, an icon. Seikilos placed me here as an eternal sign of the immortal memory.
+                
+                Do not hide your light so long as you live,
+                make sure never fully,
+                life runs only a short while,
+                time sets a fixed term
+                
+                Seikilos Euterpe ...
+            </cdwalite:inscriptions>
+        </cdwalite:inscriptionsWrap>
+        <cdwalite:relatedWorksWrap>
+            <cdwalite:relatedWorkSet>
+                <cdwalite:linkRelatedWork>http://courseweb.lis.illinois.edu/~jmcdonou/seikilos.wav</cdwalite:linkRelatedWork>
+                <cdwalite:relatedWorkRelType>Related to</cdwalite:relatedWorkRelType>
+                <cdwalite:labelRelatedWork>A digital audio recording of the composition which appears on the stele, performed by 
+                    Ensemble Atrium Musicae Madrid in 1979 and released under the harmonia mundi label on the CD entitled Ancient 
+                    Greek Music (HMA 1951015)</cdwalite:labelRelatedWork>
+                <cdwalite:locRelatedWork></cdwalite:locRelatedWork>
+            </cdwalite:relatedWorkSet>
+        </cdwalite:relatedWorksWrap>
+    </cdwalite:descriptiveMetadata>
+    <cdwalite:administrativeMetadata>
+        <cdwalite:rightsWork>© National Museum of Denmark</cdwalite:rightsWork>
+        <cdwalite:recordWrap>
+            <cdwalite:recordID>Inventory No. 14897</cdwalite:recordID>
+            <cdwalite:recordType>Item</cdwalite:recordType>
+            <cdwalite:recordSource>National Museum of Denmark</cdwalite:recordSource>
+        </cdwalite:recordWrap>
+        <cdwalite:resourceWrap>
+            <cdwalite:resourceSet>
+                <cdwalite:resourceID>1280</cdwalite:resourceID>
+                <cdwalite:resourceRelType>Documentary image</cdwalite:resourceRelType>
+                <cdwalite:resourceType cdwalite:termsource="AAT" cdwalite:termsourceID="300215302">Digital image</cdwalite:resourceType>
+                <cdwalite:rightsResource>© National Museum of Denmark</cdwalite:rightsResource>
+            </cdwalite:resourceSet>
+        </cdwalite:resourceWrap>
+    </cdwalite:administrativeMetadata>
+</cdwalite:cdwalite>

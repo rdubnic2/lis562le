@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mix:mix xmlns:mix="http://www.loc.gov/mix/v20"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mix/v20 http://www.loc.gov/standards/mix/mix20/mix20.xsd">
+    <mix:BasicDigitalObjectInformation>
+        <mix:ObjectIdentifier>
+            <mix:objectIdentifierType>file name</mix:objectIdentifierType>
+            <mix:objectIdentifierValue>seikilos_stele.jpeg</mix:objectIdentifierValue>
+        </mix:ObjectIdentifier>
+        <mix:fileSize>52247</mix:fileSize>
+        <mix:FormatDesignation>
+            <mix:formatName>image/jpeg</mix:formatName>
+            <mix:formatVersion>1.01</mix:formatVersion>
+        </mix:FormatDesignation>
+        <mix:FormatRegistry>
+            <mix:formatRegistryName>PRONOM</mix:formatRegistryName>
+            <mix:formatRegistryKey>fm/43</mix:formatRegistryKey>
+        </mix:FormatRegistry>
+        <mix:byteOrder>big endian</mix:byteOrder>
+        <mix:Compression>
+            <mix:compressionScheme>JPEG</mix:compressionScheme>
+        </mix:Compression>
+        <mix:Fixity>
+            <mix:messageDigestAlgorithm>MD5</mix:messageDigestAlgorithm>
+            <mix:messageDigest>3aeead019015196593f7f4b220fc3d09</mix:messageDigest>
+        </mix:Fixity>
+    </mix:BasicDigitalObjectInformation>
+    <mix:BasicImageInformation>
+        <mix:BasicImageCharacteristics>
+            <mix:imageWidth>753</mix:imageWidth>
+            <mix:imageHeight>1280</mix:imageHeight>
+            <mix:PhotometricInterpretation>
+                <mix:colorSpace>YCbCr</mix:colorSpace>
+                <mix:YCbCr>
+                    <mix:YCbCrSubSampling>
+                        <mix:yCbCrSubsampleHoriz>2</mix:yCbCrSubsampleHoriz>
+                        <mix:yCbCrSubsampleVert>2</mix:yCbCrSubsampleVert>
+                    </mix:YCbCrSubSampling>
+                    <mix:yCbCrPositioning>1</mix:yCbCrPositioning>
+                </mix:YCbCr>
+            </mix:PhotometricInterpretation>
+        </mix:BasicImageCharacteristics>
+    </mix:BasicImageInformation>
+    <mix:ImageCaptureMetadata>
+        <mix:GeneralCaptureInformation>
+            <mix:imageProducer>The National Museum of Denmark</mix:imageProducer>
+        </mix:GeneralCaptureInformation>
+    </mix:ImageCaptureMetadata>
+    <mix:ImageAssessmentMetadata>
+        <mix:SpatialMetrics>
+            <mix:samplingFrequencyUnit>no absolute unit of measurement</mix:samplingFrequencyUnit>
+            <mix:xSamplingFrequency>
+                <mix:numerator>1</mix:numerator>
+                <mix:denominator>1</mix:denominator>
+            </mix:xSamplingFrequency>
+            <mix:ySamplingFrequency>
+                <mix:numerator>1</mix:numerator>
+                <mix:denominator>1</mix:denominator>
+            </mix:ySamplingFrequency>
+        </mix:SpatialMetrics>
+        <mix:ImageColorEncoding>
+            <mix:BitsPerSample>
+                <mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+                <mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+                <mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+                <mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+            </mix:BitsPerSample>
+            <mix:samplesPerPixel>3</mix:samplesPerPixel>
+        </mix:ImageColorEncoding>
+    </mix:ImageAssessmentMetadata>
+</mix:mix>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpledc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xsi:noNamespaceSchemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/simpledc.xsd">
+    <dc:creator>Anonymous Greek</dc:creator>
+    <dc:title>Seikilos Epitaph</dc:title>
+    <dc:title>Marble stele, DK-Kn(?) Inv. 14897</dc:title>
+    <dc:date>1st century AD</dc:date>
+    <dc:description>Funeral marble tomb from Asia Minor, featuring a musical composition engraved in ancient Greek as epitaph</dc:description>
+    <dc:format>Marble, diam. top 20.5 cm, diam. below 25.5 cm, height 61 cm.</dc:format>
+    <dc:language>grc</dc:language>
+    <dc:publisher>National Museum of Denmark</dc:publisher>
+    <dc:identifier>14897</dc:identifier>
+    <dc:subject>Grave marker</dc:subject>
+    <dc:subject>Epitaph</dc:subject>
+    <dc:subject>Musical composition</dc:subject>
+</simpledc>

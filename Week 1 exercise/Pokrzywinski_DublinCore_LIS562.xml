@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpledc 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1"        
+    xsi:noNamespaceSchemaLocation="http://dublincore.org/schemas/xmls/qdc/2006/01/06/simpledc.xsd">
+    <creator xmlns="http://purl.org/dc/elements/1.1/"> Kate Clifford Larson</creator>  
+    <title xmlns="http://purl.org/dc/elements/1.1/"> Rosemary:The Hidden Kennedy Daughter</title>
+    <date xmlns="http://purl.org/dc/elements/1.1/">2015</date>
+    <format xmlns="http://purl.org/dc/elements/1.1/">ISBN 978-0-544-81190-4</format>
+    <format xmlns="http://purl.org/dc/elements/1.1/">20 cm.</format>
+    <language xmlns="http://purl.org/dc/elements/1.1/">English</language>
+    <coverage xmlns="http://purl.org/dc/elements/1.1/">United States</coverage>
+    <coverage xmlns="http://purl.org/dc/elements/1.1/">1918-2005</coverage>
+    <subject xmlns="http://purl.org/dc/elements/1.1/">Rosemary Kennedy</subject>
+    <subject xmlns="http://purl.org/dc/elements/1.1/">Kennedy Family</subject>
+    <subject xmlns="http://purl.org/dc/elements/1.1/">Intellectual Disability</subject>
+    <subject xmlns="http://purl.org/dc/elements/1.1/">Biography</subject>
+    <subject xmlns="http://purl.org/dc/elements/1.1/">History</subject>
+    <rights xmlns="http://purl.org/dc/elements/1.1/">Houghton Mifflin Harcourt Publilshing Company</rights>
+    <rights xmlns="http://purl.org/dc/elements/1.1/">All Rights Reserved</rights>
+</simpledc>

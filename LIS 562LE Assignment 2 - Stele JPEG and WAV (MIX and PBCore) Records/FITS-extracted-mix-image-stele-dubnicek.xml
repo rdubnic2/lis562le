@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mix:mix xmlns:mix="http://www.loc.gov/mix/v20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mix/v20 http://www.loc.gov/standards/mix/mix20/mix20.xsd">
+    <mix:BasicDigitalObjectInformation>
+        <mix:byteOrder>big endian</mix:byteOrder>
+        <mix:Compression>
+            <mix:compressionScheme>JPEG</mix:compressionScheme>
+        </mix:Compression>
+    </mix:BasicDigitalObjectInformation>
+    <mix:BasicImageInformation>
+        <mix:BasicImageCharacteristics>
+            <mix:imageWidth>753</mix:imageWidth>
+            <mix:imageHeight>1280</mix:imageHeight>
+            <mix:PhotometricInterpretation>
+                <mix:colorSpace>YCbCr</mix:colorSpace>
+                <mix:YCbCr>
+                    <mix:YCbCrSubSampling>
+                        <mix:yCbCrSubsampleHoriz>2</mix:yCbCrSubsampleHoriz>
+                        <mix:yCbCrSubsampleVert>2</mix:yCbCrSubsampleVert>
+                    </mix:YCbCrSubSampling>
+                </mix:YCbCr>
+            </mix:PhotometricInterpretation>
+        </mix:BasicImageCharacteristics>
+    </mix:BasicImageInformation>
+    <mix:ImageCaptureMetadata>
+        <mix:GeneralCaptureInformation/>
+        <mix:DigitalCameraCapture>
+            <mix:CameraCaptureSettings>
+                <mix:ImageData>
+                    <mix:lightSource>unknown</mix:lightSource>
+                </mix:ImageData>
+            </mix:CameraCaptureSettings>
+        </mix:DigitalCameraCapture>
+    </mix:ImageCaptureMetadata>
+    <mix:ImageAssessmentMetadata>
+        <mix:SpatialMetrics>
+            <mix:samplingFrequencyUnit>no absolute unit of measurement</mix:samplingFrequencyUnit>
+            <mix:xSamplingFrequency>
+                <mix:numerator>1</mix:numerator>
+                <mix:denominator>1</mix:denominator>
+            </mix:xSamplingFrequency>
+            <mix:ySamplingFrequency>
+                <mix:numerator>1</mix:numerator>
+                <mix:denominator>1</mix:denominator>
+            </mix:ySamplingFrequency>
+        </mix:SpatialMetrics>
+        <mix:ImageColorEncoding>
+            <mix:BitsPerSample>
+                <mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+                <mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+                <mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+                <mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+            </mix:BitsPerSample>
+            <mix:samplesPerPixel>3</mix:samplesPerPixel>
+        </mix:ImageColorEncoding>
+    </mix:ImageAssessmentMetadata>
+</mix:mix>

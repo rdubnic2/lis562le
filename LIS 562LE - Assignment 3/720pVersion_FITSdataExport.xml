@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<fits xmlns="http://hul.harvard.edu/ois/xml/ns/fits/fits_output" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hul.harvard.edu/ois/xml/ns/fits/fits_output http://hul.harvard.edu/ois/xml/xsd/fits/fits_output.xsd" version="1.0.5" timestamp="3/28/17 4:22 PM">
+    <identification status="CONFLICT">
+        <identity format="Quicktime" mimetype="video/quicktime" toolname="FITS" toolversion="1.0.5">
+            <tool toolname="MediaInfo" toolversion="0.7.75" />
+        </identity>
+        <identity format="ISO Media, MP4 v2 [ISO 14496-14]" mimetype="video/mp4" toolname="FITS" toolversion="1.0.5">
+            <tool toolname="file utility" toolversion="5.25" />
+        </identity>
+    </identification>
+    <fileinfo>
+        <filepath toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">/Users/rdubnic2/Desktop/LIS 562LE - Assignment 3/Sita_Sings_the_Blues_720p.mp4</filepath>
+        <filename toolname="MediaInfo" toolversion="0.7.75">Sita_Sings_the_Blues_720p.mp4</filename>
+        <size toolname="MediaInfo" toolversion="0.7.75">2594195433</size>
+        <md5checksum toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">46151722ae184c30f234ff582f522ed1</md5checksum>
+        <fslastmodified toolname="OIS File Information" toolversion="0.2" status="SINGLE_RESULT">1490485871000</fslastmodified>
+    </fileinfo>
+    <filestatus />
+    <metadata>
+        <video>
+            <location toolname="MediaInfo" toolversion="0.7.75" status="SINGLE_RESULT">/Users/rdubnic2/Desktop/LIS 562LE - Assignment 3/Sita_Sings_the_Blues_720p.mp4</location>
+            <mimeType toolname="MediaInfo" toolversion="0.7.75" status="SINGLE_RESULT">video/quicktime</mimeType>
+            <format toolname="MediaInfo" toolversion="0.7.75" status="SINGLE_RESULT">Quicktime</format>
+            <formatProfile toolname="MediaInfo" toolversion="0.7.75" status="SINGLE_RESULT">Base Media / Version 2</formatProfile>
+            <duration toolname="MediaInfo" toolversion="0.7.75" status="SINGLE_RESULT">4891225</duration>
+            <bitRate toolname="MediaInfo" toolversion="0.7.75" status="SINGLE_RESULT">4243020</bitRate>
+            <dateCreated toolname="MediaInfo" toolversion="0.7.75" status="SINGLE_RESULT">UTC 2009-03-03 13:03:37</dateCreated>
+            <dateModified toolname="MediaInfo" toolversion="0.7.75" status="SINGLE_RESULT">UTC 2017-03-25 23:51:11</dateModified>
+            <track type="video" id="1" toolname="MediaInfo" toolversion="0.7.75" status="SINGLE_RESULT">
+                <videoDataEncoding>avc1</videoDataEncoding>
+                <codecId>avc1</codecId>
+                <codecCC>avc1</codecCC>
+                <codecVersion>Baseline@L3</codecVersion>
+                <codecName>AVC</codecName>
+                <codecFamily>H.264</codecFamily>
+                <codecInfo>Advanced Video Codec</codecInfo>
+                <compression>Unknown</compression>
+                <byteOrder>Unknown</byteOrder>
+                <bitDepth>8 bits</bitDepth>
+                <bitRate>4000000</bitRate>
+                <duration>4891183</duration>
+                <trackSize>2445779791</trackSize>
+                <width>1280 pixels</width>
+                <height>720 pixels</height>
+                <frameRate>23.981</frameRate>
+                <frameRateMode>Variable</frameRateMode>
+                <frameCount>117271</frameCount>
+                <aspectRatio>16:9</aspectRatio>
+                <scanningFormat>Progressive</scanningFormat>
+                <chromaSubsampling>4:2:0</chromaSubsampling>
+                <colorspace>YUV</colorspace>
+            </track>
+            <track type="audio" id="2" toolname="MediaInfo" toolversion="0.7.75" status="SINGLE_RESULT">
+                <audioDataEncoding>AAC</audioDataEncoding>
+                <codecId>40</codecId>
+                <codecFamily>AAC</codecFamily>
+                <compression>Lossy</compression>
+                <bitRate>238443</bitRate>
+                <bitRateMode>Constant</bitRateMode>
+                <duration>4891224</duration>
+                <trackSize>145784887</trackSize>
+                <soundField>Front: L R</soundField>
+                <samplingRate>48000</samplingRate>
+                <numSamples>234778752</numSamples>
+                <channels>2</channels>
+            </track>
+            <standard>
+                <ebucore:ebuCoreMain xmlns:ebucore="urn:ebu:metadata-schema:ebuCore_2014">
+                    <ebucore:coreMetadata>
+                        <ebucore:format>
+                            <ebucore:videoFormat>
+                                <ebucore:width unit="pixel">1280</ebucore:width>
+                                <ebucore:height unit="pixel">720</ebucore:height>
+                                <ebucore:frameRate factorDenominator="1001" factorNumerator="1000">24</ebucore:frameRate>
+                                <ebucore:aspectRatio typeLabel="display">
+                                    <ebucore:factorNumerator>16</ebucore:factorNumerator>
+                                    <ebucore:factorDenominator>9</ebucore:factorDenominator>
+                                </ebucore:aspectRatio>
+                                <ebucore:videoEncoding typeLabel="avc1" />
+                                <ebucore:codec>
+                                    <ebucore:codecIdentifier>
+                                        <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">avc1</dc:identifier>
+                                    </ebucore:codecIdentifier>
+                                    <ebucore:name>AVC</ebucore:name>
+                                    <ebucore:version>Baseline@L3</ebucore:version>
+                                    <ebucore:family>H.264</ebucore:family>
+                                </ebucore:codec>
+                                <ebucore:bitRate>4000000</ebucore:bitRate>
+                                <ebucore:scanningFormat>progressive</ebucore:scanningFormat>
+                                <ebucore:videoTrack trackId="1" />
+                                <ebucore:technicalAttributeString typeLabel="chromaSubsampling">4:2:0</ebucore:technicalAttributeString>
+                                <ebucore:technicalAttributeString typeLabel="colorspace">YUV</ebucore:technicalAttributeString>
+                                <ebucore:technicalAttributeString typeLabel="frameRateMode">variable</ebucore:technicalAttributeString>
+                                <ebucore:technicalAttributeString typeLabel="byteOrder">unknown</ebucore:technicalAttributeString>
+                                <ebucore:technicalAttributeString typeLabel="compression">unknown</ebucore:technicalAttributeString>
+                                <ebucore:technicalAttributeLong typeLabel="streamSize">2445779791</ebucore:technicalAttributeLong>
+                                <ebucore:technicalAttributeLong typeLabel="frameCount">117271</ebucore:technicalAttributeLong>
+                                <ebucore:technicalAttributeLong typeLabel="bitDepth">8</ebucore:technicalAttributeLong>
+                                <ebucore:technicalAttributeLong typeLabel="duration">4891183</ebucore:technicalAttributeLong>
+                            </ebucore:videoFormat>
+                            <ebucore:audioFormat>
+                                <ebucore:audioEncoding typeLabel="AAC" />
+                                <ebucore:codec>
+                                    <ebucore:codecIdentifier>
+                                        <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">40</dc:identifier>
+                                    </ebucore:codecIdentifier>
+                                </ebucore:codec>
+                                <ebucore:audioTrackConfiguration typeLabel="Front: L R" />
+                                <ebucore:samplingRate>48000</ebucore:samplingRate>
+                                <ebucore:bitRate>238443</ebucore:bitRate>
+                                <ebucore:bitRateMode>constant</ebucore:bitRateMode>
+                                <ebucore:audioTrack trackId="2" />
+                                <ebucore:channels>2</ebucore:channels>
+                                <ebucore:technicalAttributeString typeLabel="compression">lossy</ebucore:technicalAttributeString>
+                                <ebucore:technicalAttributeLong typeLabel="streamSize">145784887</ebucore:technicalAttributeLong>
+                                <ebucore:technicalAttributeLong typeLabel="sampleCount">234778752</ebucore:technicalAttributeLong>
+                                <ebucore:technicalAttributeLong typeLabel="duration">4891224</ebucore:technicalAttributeLong>
+                            </ebucore:audioFormat>
+                            <ebucore:audioFormatExtended>
+                                <ebucore:audioChannelFormat>
+                                    <ebucore:audioBlockFormat>
+                                        <ebucore:position coordinate="x">-100</ebucore:position>
+                                        <ebucore:position coordinate="y">0</ebucore:position>
+                                    </ebucore:audioBlockFormat>
+                                </ebucore:audioChannelFormat>
+                                <ebucore:audioChannelFormat>
+                                    <ebucore:audioBlockFormat>
+                                        <ebucore:position coordinate="x">100</ebucore:position>
+                                        <ebucore:position coordinate="y">0</ebucore:position>
+                                    </ebucore:audioBlockFormat>
+                                </ebucore:audioChannelFormat>
+                            </ebucore:audioFormatExtended>
+                            <ebucore:containerFormat>
+                                <ebucore:comment typeLabel="format">Quicktime</ebucore:comment>
+                                <ebucore:comment typeLabel="formatProfile">Base Media / Version 2</ebucore:comment>
+                            </ebucore:containerFormat>
+                            <ebucore:duration>
+                                <ebucore:editUnitNumber factorDenominator="1" factorNumerator="1" editRate="1000">4891225</ebucore:editUnitNumber>
+                            </ebucore:duration>
+                            <ebucore:mimeType typeLabel="video/quicktime" />
+                            <ebucore:locator>/Users/rdubnic2/Desktop/LIS 562LE - Assignment 3/Sita_Sings_the_Blues_720p.mp4</ebucore:locator>
+                            <ebucore:technicalAttributeString typeLabel="overallBitRate">4243020</ebucore:technicalAttributeString>
+                            <ebucore:dateModified startTime="23:51:11Z" startDate="2017-03-25" />
+                        </ebucore:format>
+                    </ebucore:coreMetadata>
+                </ebucore:ebuCoreMain>
+            </standard>
+        </video>
+    </metadata>
+    <statistics fitsExecutionTime="10278">
+        <tool toolname="MediaInfo" toolversion="0.7.75" executionTime="326" />
+        <tool toolname="OIS Audio Information" toolversion="0.1" status="did not run" />
+        <tool toolname="ADL Tool" toolversion="0.1" status="did not run" />
+        <tool toolname="VTT Tool" toolversion="0.1" status="did not run" />
+        <tool toolname="Droid" toolversion="6.1.5" executionTime="103" />
+        <tool toolname="Jhove" toolversion="1.11" status="did not run" />
+        <tool toolname="file utility" toolversion="5.25" executionTime="334" />
+        <tool toolname="Exiftool" toolversion="10.00" status="did not run" />
+        <tool toolname="NLNZ Metadata Extractor" toolversion="3.6GA" status="did not run" />
+        <tool toolname="OIS File Information" toolversion="0.2" executionTime="10252" />
+        <tool toolname="OIS XML Metadata" toolversion="0.2" status="did not run" />
+        <tool toolname="ffident" toolversion="0.2" executionTime="257" />
+        <tool toolname="Tika" toolversion="1.10" status="did not run" />
+    </statistics>
+</fits>

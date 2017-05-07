@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpledc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xsi:noNamespaceSchemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/simpledc.xsd">
+    <dc:creator>Kendrick Lamar</dc:creator>
+    <dc:title>To Pimp A Butterfly </dc:title>
+    <dc:date>March 15, 2015</dc:date>
+    <dc:format>Vinyl album</dc:format>
+    <dc:format>.mp3</dc:format>
+    <dc:format>Compact disc</dc:format>
+    <dc:language>English</dc:language>
+    <dc:publisher>Top Dawg Entertainment</dc:publisher>
+    <dc:publisher>Aftermath Entertainment</dc:publisher>
+    <dc:publisher>Interscope Records</dc:publisher>
+    <dc:description>The thrid studio album from Compton, California-born rapper Kendrick Lamar. This album was 
+        the anticipated follow-up to his 2012 "Good Kid, M.A.A.D. City." "To Pimp A Butterfly" was critically 
+        lauded, winning album of the year for 2015 from reputable outlets such as Rolling Stone, Billboard and 
+        Pitchfork. Considered both timely and enlightening, the album discusses a number of personal and societal 
+        issues Lamar was interested in, such as African-American culture, race and racism in the United States, 
+        institutionalized racism, and survivors guilt. The album was certified platinum in 2016, and won 4 Grammy awards.</dc:description>
+    <dc:rights>Copyright (c) 2015 Kendrick Lamar</dc:rights>
+    <dc:rights>Copyright (c) 2015 Aftermath Entertainment/Insterscope Records</dc:rights>
+    <dc:rights>Copyright (c) 2015 Top Dawg Entertainment</dc:rights>
+    <dc:subject>Hip Hop</dc:subject>
+    <dc:subject>Rap</dc:subject>
+    <dc:subject>African-American culture</dc:subject>
+    <dc:subject>Race in the United States</dc:subject>
+    <dc:subject>Institutionalized racism</dc:subject>
+</simpledc>

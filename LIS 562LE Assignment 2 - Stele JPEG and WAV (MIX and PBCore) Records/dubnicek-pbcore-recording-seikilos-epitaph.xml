@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pbcoreCollection xmlns="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+    <pbcoreDescriptionDocument>
+        <pbcoreAssetType source="PBCore pbcoreAssetType" ref="http://metadataregistry.org/concept/show/id/1617.html">Media object</pbcoreAssetType>
+        <pbcoreIdentifier source="https://www.discogs.com/Atrium-Music%C3%A6-De-Madrid-Gregorio-Paniagua-Musique-De-La-Gr%C3%A8ce-Antique/release/6343019">HMA 1951015</pbcoreIdentifier>
+        <pbcoreTitle titleType="Track" titleTypeSource="PBCore pbcoreTitle/titleType">Epitaphe De Saikilos</pbcoreTitle>
+        <pbcoreSubject>Epitaph</pbcoreSubject>
+        <pbcoreDescription>An audio recording of the musical score contained on the Seikilos Stele</pbcoreDescription>
+        <pbcoreGenre source="PBCore pbcoreGenre" ref="http://metadataregistry.org/conceptprop/show/id/5055.html">Music</pbcoreGenre>
+        <pbcoreCreator>
+            <creator>Unknown</creator>
+            <creatorRole source="PBCore creatorRole" ref="http://metadataregistry.org/concept/show/id/1412.html">Composer</creatorRole>
+        </pbcoreCreator>
+        <pbcoreContributor>
+            <contributor>Gregorio Paniagua</contributor>
+            <contributorRole source="PBCore contributorRole" ref="http://metadataregistry.org/concept/show/id/1297.html">Conductor</contributorRole>
+        </pbcoreContributor>
+        <pbcoreContributor>
+            <contributor>Atrium Musicae De Madrid</contributor>
+            <contributorRole source="PBCore contributorRole" ref="http://metadataregistry.org/concept/show/id/1352.html">Performing group</contributorRole>
+        </pbcoreContributor>
+        <pbcorePublisher>
+            <publisher>Harmonia Mundi</publisher>
+            <publisherRole source="PBCore publisherRole" ref="http://metadataregistry.org/concept/show/id/1825.html">Copyright Holder</publisherRole>
+        </pbcorePublisher>
+        <pbcoreInstantiation>
+            <instantiationIdentifier source="LIS 562LE assignment 1 materials" ref="http://courseweb.lis.illinois.edu/~jmcdonou/seikilos.wav">seikilos.wav</instantiationIdentifier>
+            <instantiationDigital>audio/x-wav</instantiationDigital>
+            <instantiationStandard source="PBCore instantiationStandard/audio" ref="http://metadataregistry.org/concept/show/id/3209.html">Linear PCM Audio</instantiationStandard>
+            <instantiationLocation>http://courseweb.lis.illinois.edu/~jmcdonou/seikilos.wav</instantiationLocation>
+            <instantiationMediaType source="PBCore instantiatonMediaType" ref="http://metadataregistry.org/concept/show/id/1496.html">Sound</instantiationMediaType>
+            <instantiationGenerations source="PBCore instantiationGenerations" ref="http://metadataregistry.org/concept/show/id/2236.html">Copy</instantiationGenerations>
+            <instantiationFileSize unitsOfMeasure="MB">33.3</instantiationFileSize>
+            <instantiationDuration>00:01:30</instantiationDuration>
+            <instantiationDataRate unitsOfMeasure="kbps">3072</instantiationDataRate>
+            <instantiationTracks>1 audio track</instantiationTracks>
+            <instantiationChannelConfiguration>2-channel</instantiationChannelConfiguration>
+            <instantiationLanguage source="ISO 639.2" ref="http://www.loc.gov/standards/iso639-2/php/code_list.php">grc</instantiationLanguage>
+            <instantiationEssenceTrack>
+                <essenceTrackType>Audio</essenceTrackType>
+                <essenceTrackIdentifier>seikilos.wav</essenceTrackIdentifier>
+                <essenceTrackStandard source="PBCore essenceTrackStandard/audio" ref="http://metadataregistry.org/concept/show/id/3174.html">Linear PCM Audio</essenceTrackStandard>
+                <essenceTrackEncoding source="PBCore essenceTrackEncoding" ref="http://metadataregistry.org/concept/show/id/3018.html">WAV</essenceTrackEncoding>
+                <essenceTrackDataRate unitsOfMeasure="kbps">3072</essenceTrackDataRate>
+                <essenceTrackSamplingRate unitsOfMeasure="khz">48</essenceTrackSamplingRate>
+                <essenceTrackBitDepth>32</essenceTrackBitDepth>
+                <essenceTrackTimeStart>00:00:00</essenceTrackTimeStart>
+                <essenceTrackDuration>00:01:30</essenceTrackDuration>
+                <essenceTrackLanguage source="ISO 639.2" ref="http://www.loc.gov/standards/iso639-2/php/code_list.php">grc</essenceTrackLanguage>
+            </instantiationEssenceTrack>
+        </pbcoreInstantiation>
+    </pbcoreDescriptionDocument>
+</pbcoreCollection>

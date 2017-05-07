@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpledc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xsi:noNamespaceSchemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/simpledc.xsd">
+    <dc:creator>Ensemble Atrium Musicae Madrid</dc:creator>
+    <dc:title>Epitaphe de Seikilos</dc:title>
+    <dc:date>1979</dc:date>
+    <dc:description>A digital audio recording of the composition which appears on the stele</dc:description>
+    <dc:format>wav</dc:format>
+    <dc:identifier>http://courseweb.lis.illinois.edu/~jmcdonou/seikilos.wav</dc:identifier>
+    <dc:language>grc</dc:language>
+    <dc:publisher>Harmonia Mundi</dc:publisher>
+    <dc:rights>Copyright © 1979 Harmonia Mundi</dc:rights>
+    <dc:subject>Seikilos epitaph</dc:subject>
+    <dc:subject>Epitaph</dc:subject>
+    <dc:subject>Musical composition</dc:subject>
+</simpledc>

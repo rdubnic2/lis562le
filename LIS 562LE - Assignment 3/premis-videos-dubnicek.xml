@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<premis:premis xmlns:premis="http://www.loc.gov/premis/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+    xsi:schemaLocation="http://www.loc.gov/premis/v3 http://www.loc.gov/standards/premis/premis.xsd
+    http://www.pbcore.org/PBCore/PBCoreNamespace.html
+    https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd" version="3.0">
+    <premis:object xsi:type="premis:file">
+        <premis:objectIdentifier>
+            <premis:objectIdentifierType>URI</premis:objectIdentifierType>
+            <premis:objectIdentifierValue>http://www.archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_720p.mp4</premis:objectIdentifierValue>
+        </premis:objectIdentifier>
+        <premis:preservationLevel>
+            <premis:preservationLevelType>bit preservation level</premis:preservationLevelType>
+            <premis:preservationLevelValue>low</premis:preservationLevelValue>
+        </premis:preservationLevel>
+        <premis:significantProperties>
+            <premis:significantPropertiesType>chroma subsampling</premis:significantPropertiesType>
+            <premis:significantPropertiesValue>4:2:0</premis:significantPropertiesValue>
+        </premis:significantProperties>
+        <premis:significantProperties>
+            <premis:significantPropertiesType>color space</premis:significantPropertiesType>
+            <premis:significantPropertiesValue>YUV</premis:significantPropertiesValue>
+        </premis:significantProperties>
+        <premis:significantProperties>
+            <premis:significantPropertiesType>scanning format</premis:significantPropertiesType>
+            <premis:significantPropertiesValue>progressive</premis:significantPropertiesValue>
+            <premis:significantPropertiesExtension>
+                <pbcore:pbcoreDescriptionDocument>
+                    <pbcore:pbcoreAssetType source="PBCore pbcoreAssetType" ref="http://metadataregistry.org/concept/show/id/1617.html">Media object</pbcore:pbcoreAssetType>
+                    <pbcore:pbcoreIdentifier source="URI">http://www.archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_720p.mp4</pbcore:pbcoreIdentifier>
+                    <pbcore:pbcoreTitle>Sita Sings the Blues</pbcore:pbcoreTitle>
+                    <pbcore:pbcoreSubject>the Ramayana</pbcore:pbcoreSubject>
+                    <pbcore:pbcoreSubject>animated film</pbcore:pbcoreSubject>
+                    <pbcore:pbcoreDescription>an animated, modern perspective of the ancient Hindu epic poem the Ramayana</pbcore:pbcoreDescription>
+                    <pbcore:pbcoreGenre>animation</pbcore:pbcoreGenre>
+                    <pbcore:pbcoreGenre>epic</pbcore:pbcoreGenre>
+                    <pbcore:pbcoreGenre>folklore</pbcore:pbcoreGenre>
+                    <pbcore:pbcoreCreator>
+                        <pbcore:creator>Nina Paley</pbcore:creator>
+                        <pbcore:creatorRole>director</pbcore:creatorRole>
+                        <pbcore:creatorRole>writer</pbcore:creatorRole>
+                        <pbcore:creatorRole>producer</pbcore:creatorRole>
+                    </pbcore:pbcoreCreator>
+                    <pbcore:pbcoreContributor>
+                        <pbcore:contributor>Valmiki</pbcore:contributor>
+                        <pbcore:contributorRole>writer</pbcore:contributorRole>
+                    </pbcore:pbcoreContributor>
+                    <pbcore:pbcoreInstantiation>
+                        <pbcore:instantiationIdentifier source="URI">http://www.archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_720p.mp4</pbcore:instantiationIdentifier>
+                        <pbcore:instantiationDate>2008</pbcore:instantiationDate>
+                        <pbcore:instantiationDigital>video/quicktime</pbcore:instantiationDigital>
+                        <pbcore:instantiationStandard>H.264/MPEG-4 AVC</pbcore:instantiationStandard>
+                        <pbcore:instantiationLocation>http://www.archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_720p.mp4</pbcore:instantiationLocation>
+                        <pbcore:instantiationMediaType>Moving Image</pbcore:instantiationMediaType>
+                        <pbcore:instantiationFileSize>2594195433</pbcore:instantiationFileSize>
+                        <pbcore:instantiationDuration>01:21:31</pbcore:instantiationDuration>
+                        <pbcore:instantiationDataRate unitsOfMeasure="kbps">4000</pbcore:instantiationDataRate>
+                        <pbcore:instantiationColors>color</pbcore:instantiationColors>
+                        <pbcore:instantiationTracks>1 video track, 1 audio track</pbcore:instantiationTracks>
+                        <pbcore:instantiationChannelConfiguration>2-channel stereo</pbcore:instantiationChannelConfiguration>
+                        <pbcore:instantiationLanguage source="ISO 639.3" ref="http://www-01.sil.org/iso639-3/codes.asp">eng</pbcore:instantiationLanguage>
+                        <pbcore:instantiationEssenceTrack>
+                            <pbcore:essenceTrackType>video</pbcore:essenceTrackType>
+                            <pbcore:essenceTrackIdentifier>1</pbcore:essenceTrackIdentifier>
+                            <pbcore:essenceTrackStandard>H.264/MPEG-4 AVC</pbcore:essenceTrackStandard>
+                            <pbcore:essenceTrackEncoding>H.264/MPEG-4 AVC</pbcore:essenceTrackEncoding>
+                            <pbcore:essenceTrackDataRate unitsOfMeasure="bps">530402</pbcore:essenceTrackDataRate>
+                            <pbcore:essenceTrackFrameRate>23.976</pbcore:essenceTrackFrameRate>
+                            <pbcore:essenceTrackBitDepth>8</pbcore:essenceTrackBitDepth>
+                            <pbcore:essenceTrackFrameSize unitsOfMeasure="pixels">1280 x 720</pbcore:essenceTrackFrameSize>
+                            <pbcore:essenceTrackAspectRatio>16:9</pbcore:essenceTrackAspectRatio>
+                            <pbcore:essenceTrackDuration>01:21:31</pbcore:essenceTrackDuration>
+                            <pbcore:essenceTrackLanguage source="ISO 639.3" ref="http://www-01.sil.org/iso639-3/codes.asp">eng</pbcore:essenceTrackLanguage>
+                        </pbcore:instantiationEssenceTrack>
+                        <pbcore:instantiationEssenceTrack>
+                            <pbcore:essenceTrackType>audio</pbcore:essenceTrackType>
+                            <pbcore:essenceTrackIdentifier>2</pbcore:essenceTrackIdentifier>
+                            <pbcore:essenceTrackStandard>AAC</pbcore:essenceTrackStandard>
+                            <pbcore:essenceTrackEncoding>AAC</pbcore:essenceTrackEncoding>
+                            <pbcore:essenceTrackDataRate>29.81</pbcore:essenceTrackDataRate>
+                            <pbcore:essenceTrackSamplingRate unitsOfMeasure="Hz">48000</pbcore:essenceTrackSamplingRate>
+                            <pbcore:essenceTrackTimeStart>00:00:08</pbcore:essenceTrackTimeStart>
+                            <pbcore:essenceTrackDuration>01:21:16</pbcore:essenceTrackDuration>
+                            <pbcore:essenceTrackLanguage source="ISO 639.3" ref="http://www-01.sil.org/iso639-3/codes.asp">eng</pbcore:essenceTrackLanguage>
+                        </pbcore:instantiationEssenceTrack>
+                    </pbcore:pbcoreInstantiation>
+                </pbcore:pbcoreDescriptionDocument>
+            </premis:significantPropertiesExtension>
+        </premis:significantProperties>
+        <premis:objectCharacteristics>
+            <premis:fixity>
+                <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                <premis:messageDigest>46151722ae184c30f234ff582f522ed1</premis:messageDigest>
+            </premis:fixity>
+            <premis:format>
+                <premis:formatDesignation>
+                    <premis:formatName>MPEG-4</premis:formatName>
+                </premis:formatDesignation>
+            </premis:format>
+        </premis:objectCharacteristics>
+    </premis:object>
+    <premis:object xsi:type="premis:file">
+        <premis:objectIdentifier>
+            <premis:objectIdentifierType>URI</premis:objectIdentifierType>
+            <premis:objectIdentifierValue>http://www.sitasingstheblues.com</premis:objectIdentifierValue>
+        </premis:objectIdentifier>
+        <premis:preservationLevel>
+            <premis:preservationLevelValue></premis:preservationLevelValue>
+        </premis:preservationLevel>
+        <premis:significantProperties>
+            <premis:significantPropertiesType>chroma subsampling</premis:significantPropertiesType>
+            <premis:significantPropertiesValue>4:2:0</premis:significantPropertiesValue>
+        </premis:significantProperties>
+        <premis:significantProperties>
+            <premis:significantPropertiesType>color space</premis:significantPropertiesType>
+            <premis:significantPropertiesValue>YUV</premis:significantPropertiesValue>
+        </premis:significantProperties>
+        <premis:significantProperties>
+            <premis:significantPropertiesType>scanning format</premis:significantPropertiesType>
+            <premis:significantPropertiesValue>progressive</premis:significantPropertiesValue>
+            <premis:significantPropertiesExtension>
+                <pbcore:pbcoreDescriptionDocument>
+                    <pbcore:pbcoreAssetType source="PBCore pbcoreAssetType" ref="http://metadataregistry.org/concept/show/id/1617.html">Media object</pbcore:pbcoreAssetType>
+                    <pbcore:pbcoreIdentifier source="URI">http://www.archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_480p_2150kbps.mp4</pbcore:pbcoreIdentifier>
+                    <pbcore:pbcoreTitle>Sita Sings the Blues</pbcore:pbcoreTitle>
+                    <pbcore:pbcoreSubject>the Ramayana</pbcore:pbcoreSubject>
+                    <pbcore:pbcoreSubject>animated film</pbcore:pbcoreSubject>
+                    <pbcore:pbcoreDescription>an animated, modern perspective of the ancient Hindu epic poem the Ramayana</pbcore:pbcoreDescription>
+                    <pbcore:pbcoreGenre>animation</pbcore:pbcoreGenre>
+                    <pbcore:pbcoreGenre>epic</pbcore:pbcoreGenre>
+                    <pbcore:pbcoreGenre>folklore</pbcore:pbcoreGenre>
+                    <pbcore:pbcoreCreator>
+                        <pbcore:creator>Nina Paley</pbcore:creator>
+                        <pbcore:creatorRole>director</pbcore:creatorRole>
+                        <pbcore:creatorRole>writer</pbcore:creatorRole>
+                        <pbcore:creatorRole>producer</pbcore:creatorRole>
+                    </pbcore:pbcoreCreator>
+                    <pbcore:pbcoreContributor>
+                        <pbcore:contributor>Valmiki</pbcore:contributor>
+                        <pbcore:contributorRole>writer</pbcore:contributorRole>
+                    </pbcore:pbcoreContributor>
+                    <pbcore:pbcoreInstantiation>
+                        <pbcore:instantiationIdentifier source="URI">http://www.archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_480p_2150kbps.mp4</pbcore:instantiationIdentifier>
+                        <pbcore:instantiationDate>2008</pbcore:instantiationDate>
+                        <pbcore:instantiationDigital>video/quicktime</pbcore:instantiationDigital>
+                        <pbcore:instantiationStandard>H.264/MPEG-4 AVC</pbcore:instantiationStandard>
+                        <pbcore:instantiationLocation>http://www.archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_480p_2150kbps.mp4</pbcore:instantiationLocation>
+                        <pbcore:instantiationMediaType>Moving Image</pbcore:instantiationMediaType>
+                        <pbcore:instantiationFileSize>1463013630</pbcore:instantiationFileSize>
+                        <pbcore:instantiationDuration>01:21:31</pbcore:instantiationDuration>
+                        <pbcore:instantiationDataRate unitsOfMeasure="kbps">2150</pbcore:instantiationDataRate>
+                        <pbcore:instantiationColors>color</pbcore:instantiationColors>
+                        <pbcore:instantiationTracks>1 video track, 1 audio track</pbcore:instantiationTracks>
+                        <pbcore:instantiationChannelConfiguration>2-channel stereo</pbcore:instantiationChannelConfiguration>
+                        <pbcore:instantiationLanguage source="ISO 639.3" ref="http://www-01.sil.org/iso639-3/codes.asp">eng</pbcore:instantiationLanguage>
+                        <pbcore:instantiationEssenceTrack>
+                            <pbcore:essenceTrackType>video</pbcore:essenceTrackType>
+                            <pbcore:essenceTrackIdentifier>1</pbcore:essenceTrackIdentifier>
+                            <pbcore:essenceTrackStandard>H.264/MPEG-4 AVC</pbcore:essenceTrackStandard>
+                            <pbcore:essenceTrackEncoding>H.264/MPEG-4 AVC</pbcore:essenceTrackEncoding>
+                            <pbcore:essenceTrackDataRate unitsOfMeasure="bps">29124</pbcore:essenceTrackDataRate>
+                            <pbcore:essenceTrackFrameRate>23.976</pbcore:essenceTrackFrameRate>
+                            <pbcore:essenceTrackBitDepth>8</pbcore:essenceTrackBitDepth>
+                            <pbcore:essenceTrackFrameSize unitsOfMeasure="pixels">848 x 480</pbcore:essenceTrackFrameSize>
+                            <pbcore:essenceTrackAspectRatio>16:9</pbcore:essenceTrackAspectRatio>
+                            <pbcore:essenceTrackDuration>01:21:31</pbcore:essenceTrackDuration>
+                            <pbcore:essenceTrackLanguage source="ISO 639.3" ref="http://www-01.sil.org/iso639-3/codes.asp">eng</pbcore:essenceTrackLanguage>
+                        </pbcore:instantiationEssenceTrack>
+                        <pbcore:instantiationEssenceTrack>
+                            <pbcore:essenceTrackType>audio</pbcore:essenceTrackType>
+                            <pbcore:essenceTrackIdentifier>2</pbcore:essenceTrackIdentifier>
+                            <pbcore:essenceTrackStandard>AAC</pbcore:essenceTrackStandard>
+                            <pbcore:essenceTrackEncoding>AAC</pbcore:essenceTrackEncoding>
+                            <pbcore:essenceTrackDataRate>29.81</pbcore:essenceTrackDataRate>
+                            <pbcore:essenceTrackSamplingRate unitsOfMeasure="Hz">48000</pbcore:essenceTrackSamplingRate>
+                            <pbcore:essenceTrackTimeStart>00:00:08</pbcore:essenceTrackTimeStart>
+                            <pbcore:essenceTrackDuration>01:21:15</pbcore:essenceTrackDuration>
+                            <pbcore:essenceTrackLanguage source="ISO 639.3" ref="http://www-01.sil.org/iso639-3/codes.asp">eng</pbcore:essenceTrackLanguage>
+                        </pbcore:instantiationEssenceTrack>
+                        <pbcore:instantiationRelation>
+                            <pbcore:instantiationRelationType>Derived from</pbcore:instantiationRelationType>
+                            <pbcore:instantiationRelationIdentifier source="URI">http://www.archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_720p.mp4</pbcore:instantiationRelationIdentifier>
+                        </pbcore:instantiationRelation>
+                    </pbcore:pbcoreInstantiation>
+                </pbcore:pbcoreDescriptionDocument>
+            </premis:significantPropertiesExtension>
+        </premis:significantProperties>
+        <premis:objectCharacteristics>
+            <premis:fixity>
+                <premis:messageDigestAlgorithm>MD5</premis:messageDigestAlgorithm>
+                <premis:messageDigest>46151722ae184c30f234ff582f522ed1</premis:messageDigest>
+            </premis:fixity>
+            <premis:format>
+                <premis:formatDesignation>
+                    <premis:formatName>MPEG-4</premis:formatName>
+                </premis:formatDesignation>
+            </premis:format>
+        </premis:objectCharacteristics>
+    </premis:object>
+    <premis:object xsi:type="premis:intellectualEntity">
+        <premis:objectIdentifier>
+            <premis:objectIdentifierType>local</premis:objectIdentifierType>
+            <premis:objectIdentifierValue>O001</premis:objectIdentifierValue>
+        </premis:objectIdentifier>
+        <premis:environmentFunction>
+            <premis:environmentFunctionType>render</premis:environmentFunctionType>
+            <premis:environmentFunctionLevel>0</premis:environmentFunctionLevel>
+        </premis:environmentFunction>
+        <premis:environmentDesignation>
+            <premis:environmentName>VLC media player</premis:environmentName>
+            <premis:environmentVersion>2.2.2</premis:environmentVersion>
+        </premis:environmentDesignation>
+        <premis:relationship>
+            <premis:relationshipType>dependency</premis:relationshipType>
+            <premis:relationshipSubType>is required by</premis:relationshipSubType>
+            <premis:relatedObjectIdentifier>
+                <premis:relatedObjectIdentifierType>URI</premis:relatedObjectIdentifierType>
+                <premis:relatedObjectIdentifierValue>http://www.archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_720p.mp4</premis:relatedObjectIdentifierValue>
+            </premis:relatedObjectIdentifier>
+        </premis:relationship>
+        <premis:relationship>
+            <premis:relationshipType>dependency</premis:relationshipType>
+            <premis:relationshipSubType>is required by</premis:relationshipSubType>
+            <premis:relatedObjectIdentifier>
+                <premis:relatedObjectIdentifierType>URI</premis:relatedObjectIdentifierType>
+                <premis:relatedObjectIdentifierValue>http://www.archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_480p_2150kbps.mp4</premis:relatedObjectIdentifierValue>
+            </premis:relatedObjectIdentifier>
+        </premis:relationship>
+    </premis:object>
+    <premis:object xsi:type="premis:representation">
+    <premis:objectIdentifier>
+        <premis:objectIdentifierType>local</premis:objectIdentifierType>
+        <premis:objectIdentifierValue>RP001</premis:objectIdentifierValue>
+    </premis:objectIdentifier>
+    <premis:significantProperties>
+        <premis:significantPropertiesType>version</premis:significantPropertiesType>
+        <premis:significantPropertiesValue>2.2.2</premis:significantPropertiesValue>
+    </premis:significantProperties>
+    <premis:significantProperties>
+        <premis:significantPropertiesType>local path</premis:significantPropertiesType>
+        <premis:significantPropertiesValue>/Applications</premis:significantPropertiesValue>
+    </premis:significantProperties>
+    <premis:significantProperties>
+        <premis:significantPropertiesType>size</premis:significantPropertiesType>
+        <premis:significantPropertiesValue>118858527</premis:significantPropertiesValue>
+    </premis:significantProperties>
+    </premis:object>
+    <premis:event>
+        <premis:eventIdentifier>
+            <premis:eventIdentifierType>local</premis:eventIdentifierType>
+            <premis:eventIdentifierValue>E001</premis:eventIdentifierValue>
+        </premis:eventIdentifier>
+        <premis:eventType>derivation</premis:eventType>
+        <premis:eventDateTime>2008</premis:eventDateTime>
+        <premis:linkingObjectIdentifier>
+            <premis:linkingObjectIdentifierType>URI</premis:linkingObjectIdentifierType>
+            <premis:linkingObjectIdentifierValue>http://www.archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_720p.mp4</premis:linkingObjectIdentifierValue>
+            <premis:linkingObjectRole>source of derivation</premis:linkingObjectRole>
+        </premis:linkingObjectIdentifier>
+        <premis:linkingObjectIdentifier>
+            <premis:linkingObjectIdentifierType>URI</premis:linkingObjectIdentifierType>
+            <premis:linkingObjectIdentifierValue>http://www.archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_480p_2150kbps.mp4</premis:linkingObjectIdentifierValue>
+            <premis:linkingObjectRole>derived object</premis:linkingObjectRole>
+        </premis:linkingObjectIdentifier>
+    </premis:event>
+    <premis:agent>
+        <premis:agentIdentifier>
+            <premis:agentIdentifierType>LCNAF</premis:agentIdentifierType>
+            <premis:agentIdentifierValue>http://id.loc.gov/authorities/names/n90642583</premis:agentIdentifierValue>
+        </premis:agentIdentifier>
+        <premis:agentName>Nina Paley</premis:agentName>
+        <premis:agentType>creator</premis:agentType>
+    </premis:agent>
+    <premis:rights>
+        <premis:rightsStatement>
+            <premis:rightsStatementIdentifier>
+                <premis:rightsStatementIdentifierType>local</premis:rightsStatementIdentifierType>
+                <premis:rightsStatementIdentifierValue>R001</premis:rightsStatementIdentifierValue>
+            </premis:rightsStatementIdentifier>
+            <premis:rightsBasis>copyright</premis:rightsBasis>
+            <premis:copyrightInformation>
+                <premis:copyrightStatus>copyrighted</premis:copyrightStatus>
+                <premis:copyrightJurisdiction>us</premis:copyrightJurisdiction>
+            </premis:copyrightInformation>
+            <premis:linkingObjectIdentifier>
+                <premis:linkingObjectIdentifierType>URI</premis:linkingObjectIdentifierType>
+                <premis:linkingObjectIdentifierValue>http://www.archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_720p.mp4</premis:linkingObjectIdentifierValue>
+            </premis:linkingObjectIdentifier>
+            <premis:linkingObjectIdentifier>
+                <premis:linkingObjectIdentifierType>URI</premis:linkingObjectIdentifierType>
+                <premis:linkingObjectIdentifierValue>http://www.archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_480p_2150kbps.mp4</premis:linkingObjectIdentifierValue>
+            </premis:linkingObjectIdentifier>
+            <premis:linkingAgentIdentifier>
+                <premis:linkingAgentIdentifierType>local</premis:linkingAgentIdentifierType>
+                <premis:linkingAgentIdentifierValue>A001</premis:linkingAgentIdentifierValue>
+            </premis:linkingAgentIdentifier>
+        </premis:rightsStatement>
+        <premis:rightsStatement>
+            <premis:rightsStatementIdentifier>
+                <premis:rightsStatementIdentifierType>local</premis:rightsStatementIdentifierType>
+                <premis:rightsStatementIdentifierValue>R002</premis:rightsStatementIdentifierValue>
+            </premis:rightsStatementIdentifier>
+            <premis:rightsBasis>license</premis:rightsBasis>
+            <premis:licenseInformation>
+            <premis:licenseDocumentationIdentifier>
+                <premis:licenseDocumentationIdentifierType>URI</premis:licenseDocumentationIdentifierType>
+                <premis:licenseDocumentationIdentifierValue>https://creativecommons.org/share-your-work/public-domain/cc0/</premis:licenseDocumentationIdentifierValue>
+            </premis:licenseDocumentationIdentifier>
+            <premis:licenseTerms>Creative Commons 0</premis:licenseTerms>
+            </premis:licenseInformation>
+            <premis:linkingObjectIdentifier>
+                <premis:linkingObjectIdentifierType>URI</premis:linkingObjectIdentifierType>
+                <premis:linkingObjectIdentifierValue>http://www.archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_720p.mp4</premis:linkingObjectIdentifierValue>
+            </premis:linkingObjectIdentifier>
+            <premis:linkingObjectIdentifier>
+                <premis:linkingObjectIdentifierType>URI</premis:linkingObjectIdentifierType>
+                <premis:linkingObjectIdentifierValue>http://www.archive.org/download/Sita_Sings_the_Blues/Sita_Sings_the_Blues_480p_2150kbps.mp4</premis:linkingObjectIdentifierValue>
+            </premis:linkingObjectIdentifier>
+            <premis:linkingAgentIdentifier>
+                <premis:linkingAgentIdentifierType>local</premis:linkingAgentIdentifierType>
+                <premis:linkingAgentIdentifierValue>A001</premis:linkingAgentIdentifierValue>
+            </premis:linkingAgentIdentifier>
+        </premis:rightsStatement>
+    </premis:rights>
+</premis:premis>
